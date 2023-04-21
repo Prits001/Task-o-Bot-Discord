@@ -25,5 +25,4 @@ python main.py
 
 # Contributing
 Feel free to open pull requests if you wish to contribute
-#
-Contacts(Discord): Prits#7267
+
